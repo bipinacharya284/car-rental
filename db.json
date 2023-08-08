@@ -1,0 +1,17 @@
+{
+    "cars":[
+        {
+            "id": 1,
+            "title":"Lamborghini",
+            "description":"Lamborghini is an Italian luxury sports car manufacturer that is renowned for producing high-performance, stylish, and exotic sports cars. The company was founded by Ferruccio Lamborghini in 1963 with the aim of competing with established luxury car brands like Ferrari.",
+            "image":"img/1.jpg"
+        },
+        {
+            "id": 2,
+            "title":"Ferrari",
+            "description":"Ferrari is an iconic Italian luxury sports car manufacturer that has become synonymous with high-performance, precision engineering, and motorsport excellence. Founded by Enzo Ferrari in 1939, the company is renowned for producing some of the most coveted and recognizable sports cars in the world.",
+            "image":"img/2.jpg"
+        }
+
+    ]
+}
